@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyChat</string>
+    <string name="default_web_client_id" translatable="false">345367633055-rffrkk8vgptel8ufmlcs9rnrcr7hgc57.apps.googleusercontent.com</string>
+</resources>
